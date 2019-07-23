@@ -1,0 +1,97 @@
+body
+{
+    font-family: verdana;
+    font-size: 12px;
+}
+.content-box > .form
+{
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+
+    background-color: #f8f8f8;
+    border-radius: 4px;
+    border: 1px solid #e7e7e7;
+
+}
+
+.form table.form-container > tbody > tr > td 
+{
+    padding: 5px;
+}
+
+
+div.tab-form .navbar-right>.btn-group button
+{
+    background-color: transparent;
+}
+
+div.tab-form .navbar-right>.btn-group .btn
+{
+    font-size: 11px;
+}
+
+
+.tab-domain{
+    margin-bottom: 10px;
+}
+
+
+body>nav.navbar-static-top 
+{
+    background-color: cornflowerblue;
+    color:white;
+}
+
+
+#title
+{
+    color: white;
+    font-weight: bolder;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+#tablist
+{
+    padding-top: 8px;
+    
+}
+
+
+
+#tablist>li>a
+{
+    background-color: transparent;
+    color:white;
+    border: 2px solid transparent; 
+    padding: 4px;
+
+}
+#tablist>li.active>a
+{
+    
+    border: 2px solid white
+}
+
+#tablist > li > a > span 
+{
+    max-width: unset;
+    text-overflow: unset;
+    padding-right: 10px;
+}
+
+.badge {background: lightsteelblue;}
+.panel-default>.panel-heading .badge {background: lightsteelblue;}
+.tab-form .navbar-text .badge, .tab-board .navbar-text .badge {
+    max-width: unset;
+    overflow: unset;
+    text-overflow: unset;
+}
+
+table.table thead{
+    background: lightsteelblue;
+    color: white;    
+}
