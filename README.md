@@ -2,4 +2,4 @@
 Simple Custom CSS theme for Tryton Web Client (SAO)
 
 
-[![BlueTheme](blue_custom_sao.png)]
+![BlueTheme](blue_custom_sao.png)
